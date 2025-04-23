@@ -1,0 +1,12 @@
+{
+    "input": ["num_of_rows", "num_of_cols"],
+    "output": {
+        "isBase64Encoded": "false",
+        "statusCode": 200,
+        "body": "OUTPUT",
+        "headers": {
+        "content-type": "application/json"
+        }
+    },
+    "python-version": "python3.12"
+}

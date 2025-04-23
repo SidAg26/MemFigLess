@@ -1,0 +1,7 @@
+{
+    "s3-bucket": "pdf2image-converter",
+    "s3-upload-folder": "upload",
+    "s3-download-folder": "download",
+    "layer": "pdf2image_layer",
+    "python-version": "python3.11"
+}

@@ -1,0 +1,2 @@
+pillow:python3.9
+aws_lambda_powertools

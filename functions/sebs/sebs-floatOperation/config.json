@@ -1,0 +1,12 @@
+{
+    "input": "n", 
+    "output_version": "v1:ExplicitResponse",
+    "output": {
+        "isBase64Encoded": "false",
+        "statusCode": 200,
+        "body": "OUTPUT",
+        "headers": {
+        "content-type": "application/json"
+        }
+    } 
+}

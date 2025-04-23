@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Dependency packages/zips used in function/layer deployment
+python/
+pillow_package/
+package/
