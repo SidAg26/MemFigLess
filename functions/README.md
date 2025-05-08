@@ -5,8 +5,8 @@ This directory contains all the functions used in the MemFigLess research projec
 ## Directory Structure
 
 ### aws/
-Contains AWS Lambda functions used for real-world serverless applications:
-- `pdf2image-converter/`: PDF to image conversion function
+Contains custom AWS Serverless Application Repository (SAR) inspired real-world serverless functions:
+- `pdf2image-converter/`: PDF to image conversion function (`beta` version)
 - `aws-text-analyser/`: Text analysis function
 - `aws-image-resizer/`: Image resizing function
 
@@ -33,7 +33,7 @@ Contains functions related to the Serverless Benchmark Suite (SEBS) implementati
 
 ### lambda-utility/
 Contains utility functions and helper tools for AWS Lambda function management and deployment:
-- `log_collector.py`: Utility for collecting and processing Lambda function logs
+- `log_collector.py`: Utility for collecting and processing Lambda function logs. This is used during the analysis and result gathering stages
 - `constants.py`: Shared constants and configuration values
 - `main.ipynb`: Main notebook for utility operations and demonstrations
 - `__init__.py`: Package initialization file

@@ -39,9 +39,9 @@ The model of the proposed framework is a __MAPE__ control loop, i.e., _Monitor_,
 
 (For best resolution, kindly use GitHub's `White Theme`)
 <div align="center">
-  <img src="./assets/MemFigLess_Offline.png" alt="MemFigLess Offline Architecture" width="200"/>
+  <img src="./assets/rfr_model/MemFigLess_Offline.png" alt="MemFigLess Offline Architecture" width="200"/>
   <p><em>Figure 3: MemFigLess Offline Architecture - Training and Model Development Phase</em></p>
-  <img src="./assets/MemFigLess_Online.png" alt="MemFigLess Online Architecture" width="200"/>
+  <img src="./assets/rfr_model/MemFigLess_Online.png" alt="MemFigLess Online Architecture" width="200"/>
   <p><em>Figure 4: MemFigLess Online Architecture - Runtime Resource Management Phase</em></p>
 </div>
 
